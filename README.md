@@ -1,3 +1,4 @@
 # scrapy: r/mildlyinteresting
 
-This goes to the subreddit "mildlyinteresting" and collects the posts' title and image link.
+This is a python script that uses the scrapy library to collect a desired subreddit's posts' titles
+and image links.
